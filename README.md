@@ -4,4 +4,4 @@
 
 # Text Editor Used :
 
-![WORD](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png)
+![image](https://github.com/avinash157/CodeClause-International-Affairs/assets/126342517/fb73e1ae-7dff-42e6-9166-342addb83ef1)
